@@ -13,6 +13,7 @@
             android:id="@+id/iv_foto_makanan"
             android:layout_width="match_parent"
             android:layout_height="150dp"
+            android:src="@drawable/food"
             android:scaleType="centerCrop" />
 
         <LinearLayout
@@ -32,9 +33,8 @@
                 android:layout_height="wrap_content"
                 android:text="Harga Makanan" />
 
-
         </LinearLayout>
-    </LinearLayout>
 
+    </LinearLayout>
 
 </android.support.v7.widget.CardView>
