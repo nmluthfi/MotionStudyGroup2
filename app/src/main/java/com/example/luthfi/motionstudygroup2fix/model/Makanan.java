@@ -25,4 +25,5 @@ public class Makanan {
     public void setPrice(float price) {
         this.price = price;
     }
+
 }
